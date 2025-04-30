@@ -13,7 +13,6 @@
 //              |                     |--> extend_claws
 //              +---------------------+
 // ----------------------------------------------------
-
 module claw_controller (
     input  wire [2:0] state,
     output reg stop,
