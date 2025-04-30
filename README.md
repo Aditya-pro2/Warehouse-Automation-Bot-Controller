@@ -1,4 +1,4 @@
-# Warehouse automation Bot
+# Warehouse Automation Bot
 (Spoilers: Yes. before you can point it out, we know Control Theory exists and this very same problem statement can be solved in a far more optimal way with a custom PID controller programmed in ROS2. This is merely a proof of concept and a showcasing of the application of a System Design workflow on a toy problem, pushing the limits of feasibility of conventional MIMO controller design using Verilog.)
 
 ## Problem Environment:
