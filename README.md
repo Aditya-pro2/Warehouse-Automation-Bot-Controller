@@ -1,5 +1,5 @@
 # Warehouse Automation Bot
-(Spoilers: Yes. before you can point it out, we know Control Theory exists and this very same problem statement can be solved in a far more optimal way with a custom PID controller programmed in ROS2. This is merely a proof of concept and a showcasing of the application of a System Design workflow on a toy problem, pushing the limits of feasibility of conventional MIMO controller design using Verilog.)
+(Spoilers: Yes. Before you can point it out, we know Control Theory exists and this very same problem statement can be solved in a far more optimal way with a custom PID controller programmed in ROS2. This is merely a proof of concept and a showcasing of the application of a System Design workflow on a toy problem, pushing the limits of feasibility of conventional MIMO controller design using Verilog.)
 
 ## Problem Environment:
 ![image](https://github.com/user-attachments/assets/1e49856b-b895-45a0-8202-6d2b74375596)
@@ -13,7 +13,7 @@ An autonomous robot is assigned an RFID (which maps to a box of cargo) to look f
 ## Solutiion workflow:
 * High Level Block Diagram
 * Flowchart
-* Mnemonic Documented State Diagram
+* Mnemonic Documented State (MDS) Diagram
 * Code assignment, Minimization using K-maps and Circuit implementation
 * Implementation of controller using Verilog
 
